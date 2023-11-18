@@ -1,1 +1,1 @@
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Angel1980&show_icons=true&hide_border=true&theme=radical)
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel04172002)](https://github.com/Angel04172002/github-readme-stats)
