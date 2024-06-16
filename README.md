@@ -2,7 +2,7 @@
 <h3 align="center">I am a full stack developer from Bulgaria</h3>
 
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **HTML, CSS, JS, C#**
 
